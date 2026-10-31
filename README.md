@@ -1,8 +1,8 @@
 # simple-aws-serverless-data-analytics
-A serverless data analytics architecture built on AWS that enables CSV data ingestion, schema discovery, SQL querying, and business intelligence visualization using AWS Lambda, Amazon S3, AWS Glue, Amazon Athena, and Amazon QuickSight.
+A serverless data analytics architecture built on AWS that enables CSV data ingestion, schema discovery, SQL querying, and business intelligence visualization using AWS Lambda, Amazon S3, AWS Glue, Amazon Athena, and Amazon QuickSight. I've uploaded CSV for reference
 
-Uploaded CSV for reference
 
+## Architecture
 <img width="1073" height="599" alt="image" src="https://github.com/user-attachments/assets/97a8b4d6-084b-4231-a402-f186452a2e05" />
 
 
