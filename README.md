@@ -9,7 +9,7 @@ A serverless data analytics architecture built on AWS that enables CSV data inge
 Automatically scans data stored in Amazon S3 to discover its structure and schema, such as column names and data types. It then creates or updates table definitions in the AWS Glue Data Catalog.
 
 ### AWS Glue Data Catalog
-A centralized metadata repository that stores table schemas, data formats, and data locations.
+A centralized metadata repository that stores table schemas, data formats, and data locations. In our case, our data location is at S3 bucket.
 
 It does not store the actual records. Instead, it helps services like Amazon Athena understand how and where to access the data.
 
